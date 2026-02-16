@@ -1,0 +1,6 @@
+MATH201,Discrete Mathematics
+CSCI300,Algorithms,CSCI200,CSCI101
+CSCI350,Operating Systems,CSCI200
+CSCI101,Introduction to Programming,CSCI100
+CSCI100,Introduction to Computer Science
+CSCI200,Data Structures,CSCI101
